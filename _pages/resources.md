@@ -55,7 +55,7 @@ _This is where I plan to list the books in the "Book by Ayn Rand and Objectivist
 
 ## Conferences
 
-_This is where I plan to content from the existing [Conferences](https://www.frontrangeobjectivism.com/conferences-2/){:target="&lowbar;blank"} page._
+_This is where I plan to add content from the existing [Conferences](https://www.frontrangeobjectivism.com/conferences-2/){:target="&lowbar;blank"} page._
 
 ### OCON
 
@@ -63,7 +63,7 @@ _This is where I plan to content from the existing [Conferences](https://www.fro
 
 ## Activism
 
-_This is where I plan to content from the existing [Activism](https://www.frontrangeobjectivism.com/activism/){:target="&lowbar;blank"} page._
+_This is where I plan to add content from the existing [Activism](https://www.frontrangeobjectivism.com/activism/){:target="&lowbar;blank"} page._
 
 ## Links
 

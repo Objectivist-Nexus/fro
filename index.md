@@ -13,7 +13,7 @@ FRO was established in 1988 by Lin Zinser, now of the [Ayn Rand Center for Indiv
 
 ----
 
-"When I came to Colorado I felt an immediate sense of community with FRO. It is the most dedicated and best-organized Objectivist community group I've found in the country. It is, above all, an invaluable resource for the regular, interactive study of Objectivism--even for someone who's been already studying Objectivism for 15 years." _-- Ben B., Philosophy Professor_
+"When I came to Colorado I felt an immediate sense of community with FRO. It is the most dedicated and best-organized Objectivist community group I've found in the country. It is, above all, an invaluable resource for the regular, interactive study of Objectivism--even for someone who's been already studying Objectivism for 15 years." _-- Ben B, Philosophy Professor_
 
 ## What We Do
 
