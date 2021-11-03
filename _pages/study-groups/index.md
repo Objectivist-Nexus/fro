@@ -5,7 +5,7 @@ last_modified_at: "2021-11-02"
 permalink:        /study-groups/
 ---
 
-There are four separate FRO study groups ("FROGs") for the study of Objectivism: [1FROG](/study-groups/1frog/), [2FROG](/study-groups/2frog/), [3FROG](/study-groups/3frog/), and [4FROG](/study-groups/4frog/). The primary goal of these groups is to help members to understand the [principles of Objectivism](/resources/#objectivism) more clearly and deeply, so that they can better apply them in their own lives.
+There are four separate FRO study groups ("FROGs") for the study of Objectivism: [1FROG](/fro/study-groups/1frog/), [2FROG](/fro/study-groups/2frog/), [3FROG](/fro/study-groups/3frog/), and [4FROG](/fro/study-groups/4frog/). The primary goal of these groups is to help members to understand the [principles of Objectivism](/fro/resources/#objectivism) more clearly and deeply, so that they can better apply them in their own lives.
 
 The various FROGs differ from one another in various ways, depending on the preferences of the members. Mostly, they meet once per month. Some groups meet at a member's home, while others meet in a local bookstore, restaurant, or coffee shop. Typically, about 10 to 14 people attend each meeting.
 
@@ -17,14 +17,14 @@ _TO DO: Add mailto: links for each group leader, prepopulated with a subject and
 
 |Group|Standard Meeting Time|Standard Meeting Location|Leader|
 |-|-|-|
-|[1FROG](/study-groups/1frog/)|4th Saturday of the month<br />6:00pm - 10:00pm|rotating among members' homes|Dan Sullivan|
-|[2FROG](/study-groups/2frog/)|4th Sunday of the month<br />1:00pm - 4:30pm|North Denver Metro Area<br />(Superior, CO)|David Weatherell|
-|[3FROG](/study-groups/3frog/)|2nd Saturday of the month<br />2:00pm - 5:00pm|South/East Denver Metro Area<br />(Aurora, CO)|Vicki Genther|
-|[4FROG](/study-groups/4frog/)|3th Monday of the month<br />7:00pm - 9:00pm|North Denver Metro Area<br />(Louisville, CO)|David Weatherell|
+|[1FROG](/fro/study-groups/1frog/)|4th Saturday of the month<br />6:00pm - 10:00pm|rotating among members' homes|Dan Sullivan|
+|[2FROG](/fro/study-groups/2frog/)|4th Sunday of the month<br />1:00pm - 4:30pm|North Denver Metro Area<br />(Superior, CO)|David Weatherell|
+|[3FROG](/fro/study-groups/3frog/)|2nd Saturday of the month<br />2:00pm - 5:00pm|South/East Denver Metro Area<br />(Aurora, CO)|Vicki Genther|
+|[4FROG](/fro/study-groups/4frog/)|3th Monday of the month<br />7:00pm - 9:00pm|North Denver Metro Area<br />(Louisville, CO)|David Weatherell|
 
 ## Standards of Membership
 
-FROG members differ in the depth of their understanding of Objectivism, but all are committed to understanding and applying the philosophy in their own lives. FROG meetings aim for constructive and friendly discussion -- not acrimonious debate. So the principles of Objectivism serve as the implicit and explicit background of the discussions at FROG meetings. So we might discuss the proper applications of property rights or the fallacies of anarchism, but we do not debate whether property rights exist or whether government is necessary. Or we might discuss the extent of animal consciousness, but we do not debate whether consciousness is a myth or whether animals have rights. In short, we are happy to discuss -- but not debate -- any topic relevant to Objectivism. In essence, FROG welcomes friendly people who agree with the [main tenets of Objectivism](/resources/#objectivism) and wish to study it further. FROG is not an appropriate forum for people unfamiliar with or opposed to its principles. People who prove disruptive to the aims of FROG will be removed from the group by the FROG Leader.
+FROG members differ in the depth of their understanding of Objectivism, but all are committed to understanding and applying the philosophy in their own lives. FROG meetings aim for constructive and friendly discussion -- not acrimonious debate. So the principles of Objectivism serve as the implicit and explicit background of the discussions at FROG meetings. So we might discuss the proper applications of property rights or the fallacies of anarchism, but we do not debate whether property rights exist or whether government is necessary. Or we might discuss the extent of animal consciousness, but we do not debate whether consciousness is a myth or whether animals have rights. In short, we are happy to discuss -- but not debate -- any topic relevant to Objectivism. In essence, FROG welcomes friendly people who agree with the [main tenets of Objectivism](/fro/resources/#objectivism) and wish to study it further. FROG is not an appropriate forum for people unfamiliar with or opposed to its principles. People who prove disruptive to the aims of FROG will be removed from the group by the FROG Leader.
 
 ## Standards of Conduct
 
@@ -39,6 +39,6 @@ In addition, FROG members should act in a friendly -- or at least civil -- way t
 
 ## Joining
 
-To maintain the high value of FROG meetings, the FROG groups are selective about their members. To join, you must first speak to the group leader, then attend as a guest for a few meetings. After that, if approved by existing members, you will be invited to join. However, before you attempt to join FROG, you are strongly encouraged to attend FRO's talks or [social events](/social-events/) to meet current members thereof. Introduce yourself; tell people that you're interested in joining FROG and discuss your interest in studying Objectivism. If you're interested in joining FROG, be sure to join [FRO's Announcement E-mail List](http://groups.google.com/group/fro-frost){:target="&lowbar;blank"} to receive announcements of major FRO news and events, including openings in FROGs.
+To maintain the high value of FROG meetings, the FROG groups are selective about their members. To join, you must first speak to the group leader, then attend as a guest for a few meetings. After that, if approved by existing members, you will be invited to join. However, before you attempt to join FROG, you are strongly encouraged to attend FRO's talks or [social events](/fro/social-events/) to meet current members thereof. Introduce yourself; tell people that you're interested in joining FROG and discuss your interest in studying Objectivism. If you're interested in joining FROG, be sure to join [FRO's Announcement E-mail List](http://groups.google.com/group/fro-frost){:target="&lowbar;blank"} to receive announcements of major FRO news and events, including openings in FROGs.
 
 _Is that really true about the announcement email list? I don't recall ever seeing any emails through there..._
