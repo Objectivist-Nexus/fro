@@ -1,7 +1,7 @@
 ---
 title:            "FRO Resources"
 date:             "2021-11-02"
-last_modified_at: "2021-11-05T16:18:54+00:00"
+last_modified_at: "2021-11-05T23:22:45+00:00"
 ---
 
 ## On This Page
@@ -79,9 +79,11 @@ Thus, Objectivism rejects any form of collectivism, such as fascism or socialism
 * [_Objectivism: The Philosophy of Ayn Rand_](http://www.amazon.com/exec/obidos/ASIN/0452011019/frontrangeobj-20){:target="&lowbar;blank"} by Leonard Piekoff
 * [_Ayn Rand's Normative Ethics_](http://www.amazon.com/exec/obidos/ASIN/0521705460/frontrangeobj-20){:target="&lowbar;blank"} by Tara Smith
 * [_The Capitalist Manifesto_](http://www.amazon.com/exec/obidos/ASIN/0761832211/frontrangeobj-20){:target="&lowbar;blank"} by Andrew Bernstein
+* [_Capitalism Unbound_](https://smile.amazon.com/Capitalism-Unbound-Incontestable-Individual-Rights/dp/0761849696/){:target="&lowbar;blank"} by Andrew Bernstein
 * [_Objectivism in One Lesson_](http://www.amazon.com/exec/obidos/ASIN/0761843590/frontrangeobj-20){:target="&lowbar;blank"} by Andrew Bernstein
 * [_Loving Life_](http://www.amazon.com/exec/obidos/ASIN/0971373701/frontrangeobj-20){:target="&lowbar;blank"} by Craig Biddle
 * [_Ominous Parallels_](http://www.amazon.com/exec/obidos/ASIN/0452011175/frontrangeobj-20){:target="&lowbar;blank"} by Leonard Piekoff
+* [_How We Know_](https://smile.amazon.com/How-Know-Epistemology-Objectivist-Foundation-ebook/dp/B07W5RH62C/){:target="&lowbar;blank"} by Harry Binswanger (and [associated website](http://www.how-we-know.com/){:target="&lowbar;blank"})
 * [_Essays on Ayn Rand's We the Living_](http://www.amazon.com/exec/obidos/ASIN/0739106988/frontrangeobj-20){:target="&lowbar;blank"}, edited by Robert Mayhew
 * [_Essays on Ayn Rand's Anthem_](http://www.amazon.com/exec/obidos/ASIN/0739110314/frontrangeobj-20){:target="&lowbar;blank"}, edited by Robert Mayhew
 * [_Essays on Ayn Rand's The Fountainhead_](http://www.amazon.com/exec/obidos/ASIN/0739115782/frontrangeobj-20){:target="&lowbar;blank"}, edited by Robert Mayhew
