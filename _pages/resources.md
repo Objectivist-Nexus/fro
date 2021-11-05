@@ -1,7 +1,7 @@
 ---
 title:            "FRO Resources"
 date:             "2021-11-02"
-last_modified_at: "2021-11-02"
+last_modified_at: "2021-11-05T03:05:25+00:00"
 ---
 
 ## On This Page
@@ -51,20 +51,83 @@ Thus, Objectivism rejects any form of collectivism, such as fascism or socialism
 
 ## Objectivist Literature
 
-_This is where I plan to list the books in the "Book by Ayn Rand and Objectivists" section of the existing [Objectivism](https://www.frontrangeobjectivism.com/objectivism/){:target="&lowbar;blank"} page._
+### Novels by Ayn Rand
+* [_Atlas Shrugged_](http://www.amazon.com/exec/obidos/ASIN/0452011876/frontrangeobj-20){:target="&lowbar;blank"}
+* [_The Fountainhead_](http://www.amazon.com/exec/obidos/ASIN/0452273331/frontrangeobj-20){:target="&lowbar;blank"}
+* [_Anthem_](http://www.amazon.com/exec/obidos/ASIN/0451191137/frontrangeobj-20){:target="&lowbar;blank"}
+* [_We the Living_](http://www.amazon.com/exec/obidos/ASIN/0451187849/frontrangeobj-20){:target="&lowbar;blank"}
+
+### Anthologies of Ayn Rand's Philosophical Essays
+* [_The Virtue of Selfishness_](http://www.amazon.com/exec/obidos/ASIN/0451163931/frontrangeobj-20){:target="&lowbar;blank"}
+* [_Capitalism: The Unknown Ideal_](http://www.amazon.com/exec/obidos/ASIN/0451147952/frontrangeobj-20){:target="&lowbar;blank"}
+* [_Introduction to Objectivist Epistemology_](http://www.amazon.com/exec/obidos/ASIN/0452010306/frontrangeobj-20){:target="&lowbar;blank"}
+* [_Philosophy: Who Needs It_](http://www.amazon.com/exec/obidos/ASIN/0451138937/frontrangeobj-20){:target="&lowbar;blank"}
+* [_The Romantic Manifesto_](http://www.amazon.com/exec/obidos/ASIN/0451149165/frontrangeobj-20){:target="&lowbar;blank"}
+* [_Return of the Primitive_](http://www.amazon.com/exec/obidos/ASIN/0452011841/frontrangeobj-20){:target="&lowbar;blank"}
+* [_The Voice of Reason_](http://www.amazon.com/exec/obidos/ASIN/0452010462/frontrangeobj-20){:target="&lowbar;blank"}
+* [_For the New Intellectual_](http://www.amazon.com/exec/obidos/ASIN/0451163087/frontrangeobj-20){:target="&lowbar;blank"}
+
+### Works Compiled Posthumously
+* [_Ayn Rand Answers_](http://www.amazon.com/exec/obidos/ASIN/0451216652/frontrangeobj-20){:target="&lowbar;blank"}, edited by Robert Mayhew
+* [_The Art of Fiction_](http://www.amazon.com/exec/obidos/ASIN/0452281547/frontrangeobj-20){:target="&lowbar;blank"}, edited by Tore Boeckmann
+* [_The Art of Nonfiction_](http://www.amazon.com/exec/obidos/ASIN/0452282314/frontrangeobj-20){:target="&lowbar;blank"}, edited by Robert Mayhew
+* [_Objectively Speaking_](http://www.amazon.com/exec/obidos/ASIN/0739131958/frontrangeobj-20){:target="&lowbar;blank"}, edited by Marlene Podritske and Peter Schwartz
+* [_Letters of Ayn Rand_](http://www.amazon.com/exec/obidos/ASIN/0452274044/frontrangeobj-20){:target="&lowbar;blank"}, edited by Michael Merliner
+* [_The Journals of Ayn Rand_](http://www.amazon.com/exec/obidos/ASIN/0452278872/frontrangeobj-20){:target="&lowbar;blank"}, edited by David Harriman
+
+### Quality Secondary Literature
+* [_Objectivism: The Philosophy of Ayn Rand_](http://www.amazon.com/exec/obidos/ASIN/0452011019/frontrangeobj-20){:target="&lowbar;blank"} by Leonard Piekoff
+* [_Ayn Rand's Normative Ethics_](http://www.amazon.com/exec/obidos/ASIN/0521705460/frontrangeobj-20){:target="&lowbar;blank"} by Tara Smith
+* [_The Capitalist Manifesto_](http://www.amazon.com/exec/obidos/ASIN/0761832211/frontrangeobj-20){:target="&lowbar;blank"} by Andrew Bernstein
+* [_Objectivism in One Lesson_](http://www.amazon.com/exec/obidos/ASIN/0761843590/frontrangeobj-20){:target="&lowbar;blank"} by Andrew Bernstein
+* [_Loving Life_](http://www.amazon.com/exec/obidos/ASIN/0971373701/frontrangeobj-20){:target="&lowbar;blank"} by Craig Biddle
+* [_Ominous Parallels_](http://www.amazon.com/exec/obidos/ASIN/0452011175/frontrangeobj-20){:target="&lowbar;blank"} by Leonard Piekoff
+* [_Essays on Ayn Rand's We the Living_](http://www.amazon.com/exec/obidos/ASIN/0739106988/frontrangeobj-20){:target="&lowbar;blank"}, edited by Robert Mayhew
+* [_Essays on Ayn Rand's Anthem_](http://www.amazon.com/exec/obidos/ASIN/0739110314/frontrangeobj-20){:target="&lowbar;blank"}, edited by Robert Mayhew
+* [_Essays on Ayn Rand's The Fountainhead_](http://www.amazon.com/exec/obidos/ASIN/0739115782/frontrangeobj-20){:target="&lowbar;blank"}, edited by Robert Mayhew
+* [_Essays on Ayn Rand's Atlas Shrugged_](http://www.amazon.com/exec/obidos/ASIN/0739127802/frontrangeobj-20){:target="&lowbar;blank"}, edited by Robert Mayhew
+* [_Ayn Rand_](http://www.amazon.com/exec/obidos/ASIN/1585674060/frontrangeobj-20){:target="&lowbar;blank"} (biography) by Jeff Britting
+* [_Facets of Ayn Rand_](http://www.amazon.com/exec/obidos/ASIN/0962533653/frontrangeobj-20){:target="&lowbar;blank"} (memoires) by Mary Ann and Charles Sures
 
 ## Conferences
 
-_This is where I plan to add content from the existing [Conferences](https://www.frontrangeobjectivism.com/conferences-2/){:target="&lowbar;blank"} page._
-
 ### OCON
+
+[OCON (Objectivist Conferences)](http://objectivistconferences.com/){:target="&lowbar;blank"} is the [Ayn Rand Institute](https://aynrand.org){:target="&lowbar;blank"}'s annual summer conference, featuring a lineup of talks on philosophical, cultural, and historical topics.
 
 ### TOS-Con
 
+[TOS-Con (The Objective Standard Conference)](https://objectivestandard.org/tos-con){:target="&lowbar;blank"} is the [Objective Standard Institute](https://objectivestandard.org){:target="&lowbar;blank"} annual summer conference with the tagline _Sharpen your mind. Fuel your soul. Excel in life. Fight for liberty._
+
+Freedom and flourishing are not givens. They are consequences of certain ideas that were developed over thousands of years and are still being refined today.
+
+TOS-Con is for people who want to understand and act on these ideas, to thrive in their ventures and relationships, and to support liberty on solid ground.
+
 ## Activism
 
-_This is where I plan to add content from the existing [Activism](https://www.frontrangeobjectivism.com/activism/){:target="&lowbar;blank"} page._
+### FIRM
+
+[FIRM (Freedom and Individual Rights in Medicine)](http://www.westandfirm.org/){:target="&lowbar;blank"} promotes the philosophy of individual rights, personal responsibility, and free market economics in health care. FIRM holds that the only moral and practical way to obtain medical care is that of individuals choosing and paying for their own medical care in a capitalist free market. Federal and state regulations and entitlements, we maintain, are the two most important factors in driving up medical costs. They have created the crisis we face today.
+
+FIRM was founded by Lin Zinser, JD, with assistance from Paul Hsieh, MD, and others. It is run by Dr Paul Hsieh.
+
+### SEPARATE!
+
+[SEPARATE!](http://separatestateandtheeconomy.com/){:target="&lowbar;blank"} is a blog championing the moral case for separating state and economy, run by Anders Ingemarson.
+
+### Coalition for Secular Government
+
+The [Coalition for Secular Government](http://www.seculargovernment.us/){:target="&lowbar;blank"} advocates government solely based on secular principles of individual rights. The protection of a person's basic rights to life, liberty, property, and the pursuit of happiness -- including freedom of religion and conscience -- requires a strict separation of church and state.
+
+It was founded and run by Dr Diana Hsieh.
 
 ## Links
 
-_This is where I plan to aggregate links from the "Objectivist Resources" section of the existing [homepage](https://www.frontrangeobjectivism.com/){:target="&lowbar;blank"} and "Other Resources" section of the existing [Objectivism](https://www.frontrangeobjectivism.com/objectivism/){:target="&lowbar;blank"} page._
+* [Ayn Rand on Amazon.com](http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2Fs%3Fie%3DUTF8%26redirect%3Dtrue%26search-type%3Dss%26index%3Dbooks%26ref%3Dntt%255Fathr%255Fdp%255Fsr%255F1%26field-author%3DAyn%2520Rand&tag=frontrangeobj-20&linkCode=ur2&camp=1789&creative=390957){:target="&lowbar;blank"}
+* [Ayn Rand Lexicon](http://www.aynrandlexicon.com/about/conceptual.html){:target="&lowbar;blank"}
+* [Ayn Rand Institute](https://aynrand.org/){:target="&lowbar;blank"}
+* [Objective Standard Institute](https://objectivestandard.org/){:target="&lowbar;blank"}
+* [Ayn Rand Society](http://www.aynrandsociety.org/){:target="&lowbar;blank"}
+* [Anthem Foundation](http://anthemfoundation.org/){:target="&lowbar;blank"}
+* [_The Objective Standard_](http://www.theobjectivestandard.com/){:target="&lowbar;blank"}
+* [Ayn Rand on Libertarianism](http://aynrandlexicon.com/ayn-rand-ideas/ayn-rand-q-on-a-on-libertarianism.html){:target="&lowbar;blank"} (and [Libertarianism](http://aynrandlexicon.com/lexicon/libertarians.html){:target="&lowbar;blank"} entry)
