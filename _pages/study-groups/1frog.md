@@ -1,10 +1,10 @@
 ---
 title:            "1FROG"
 date:             "2021-11-02"
-last_modified_at: "2021-11-05T03:07:54+00:00"
+last_modified_at: "2021-11-05T19:17:34+00:00"
 ---
 
-|**Leader**|[Dan Sullivan](mailto:dansullivanstl@gmail.com?subject=Interest+in+1FROG)|
+|**Leader**|[Dan Sullivan 1FROG](){: .email}|
 |**Standard Meeting Time**|4th Saturday of the month<br />6:00pm - 10:00pm|
 |**Standard Meeting Location**|rotating among members' homes|
 |**Email List**|[fro-1frog (Google Group)](http://groups.google.com/group/fro-1frog){:target="&lowbar;blank"}|

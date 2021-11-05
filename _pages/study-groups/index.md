@@ -1,7 +1,7 @@
 ---
 title:            "FRO Study Groups"
 date:             "2021-11-02"
-last_modified_at: "2021-11-05T03:08:55+00:00"
+last_modified_at: "2021-11-05T19:17:34+00:00"
 permalink:        /study-groups/
 ---
 
@@ -17,7 +17,7 @@ _TO DO: Add mailto: links for each group leader, prepopulated with a subject and
 
 |Group|Standard Meeting Time|Standard Meeting Location|Leader|
 |-|-|-|
-|[1FROG](/fro/study-groups/1frog/)|4th Saturday of the month<br />6:00pm - 10:00pm|rotating among members' homes|[Dan Sullivan](mailto:dansullivanstl@gmail.com?subject=Interest+in+1FROG)|
+|[1FROG](/fro/study-groups/1frog/)|4th Saturday of the month<br />6:00pm - 10:00pm|rotating among members' homes|[Dan Sullivan 1FROG](){: .email}|
 |[2FROG](/fro/study-groups/2frog/)|4th Sunday of the month<br />1:00pm - 4:30pm|North Denver Metro Area<br />(Superior, CO)|David Weatherell|
 |[3FROG](/fro/study-groups/3frog/)|2nd Saturday of the month<br />2:00pm - 5:00pm|South/East Denver Metro Area<br />(Aurora, CO)|Vicki Genther|
 |[4FROG](/fro/study-groups/4frog/)|3th Monday of the month<br />7:00pm - 9:00pm|North Denver Metro Area<br />(Louisville, CO)|David Weatherell|
