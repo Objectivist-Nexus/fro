@@ -1,7 +1,7 @@
 ---
 title:            "FRO Resources"
 date:             "2021-11-02"
-last_modified_at: "2021-11-05T03:05:25+00:00"
+last_modified_at: "2021-11-05T16:18:54+00:00"
 ---
 
 ## On This Page
@@ -128,6 +128,7 @@ It was founded and run by Dr Diana Hsieh.
 * [Ayn Rand Institute](https://aynrand.org/){:target="&lowbar;blank"}
 * [Objective Standard Institute](https://objectivestandard.org/){:target="&lowbar;blank"}
 * [Ayn Rand Society](http://www.aynrandsociety.org/){:target="&lowbar;blank"}
+* [Prometheus Foundation](https://prometheusfdn.org/){:target="&lowbar;blank"}
 * [Anthem Foundation](http://anthemfoundation.org/){:target="&lowbar;blank"}
 * [_The Objective Standard_](http://www.theobjectivestandard.com/){:target="&lowbar;blank"}
 * [Ayn Rand on Libertarianism](http://aynrandlexicon.com/ayn-rand-ideas/ayn-rand-q-on-a-on-libertarianism.html){:target="&lowbar;blank"} (and [Libertarianism](http://aynrandlexicon.com/lexicon/libertarians.html){:target="&lowbar;blank"} entry)
