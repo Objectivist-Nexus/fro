@@ -1,7 +1,7 @@
 ---
 title:            "FRO Resources"
 date:             "2021-11-02"
-last_modified_at: "2021-11-06T16:56:16+00:00"
+last_modified_at: "2021-11-06T17:55:23+00:00"
 ---
 
 ## On This Page
@@ -133,5 +133,5 @@ It was founded and run by Dr Diana Hsieh.
 * [Prometheus Foundation](https://prometheusfdn.org/){:target="&lowbar;blank"}
 * [Anthem Foundation](http://anthemfoundation.org/){:target="&lowbar;blank"}
 * [_The Objective Standard_](http://www.theobjectivestandard.com/){:target="&lowbar;blank"}
-* [The Harry Binswanger List (HBL)](https://www.hbletter.com/){:target="&lowbar;blank"}
+* [The Harry Binswanger Letter (HBL)](https://www.hbletter.com/){:target="&lowbar;blank"}
 * [Ayn Rand on Libertarianism](http://aynrandlexicon.com/ayn-rand-ideas/ayn-rand-q-on-a-on-libertarianism.html){:target="&lowbar;blank"} (and [Libertarianism](http://aynrandlexicon.com/lexicon/libertarians.html){:target="&lowbar;blank"} entry)
