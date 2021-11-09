@@ -1,7 +1,7 @@
 ---
 title:            "FRO Help"
 date:             "2021-11-02"
-last_modified_at: "2021-11-09T16:42:54+00:00"
+last_modified_at: "2021-11-09T20:26:08+00:00"
 ---
 
 ## Google Groups
@@ -45,3 +45,23 @@ Please note that you must send email from the address that is subscribed to the 
 Click on the link to the list from which you wish to unsubscribe. (You may need to sign in to your Google Account.) Click on "My membership settings" in the side panel then the "Leave group" button next to the group's name.
 
 ## Calendar
+
+A public calendar of all FRO events is posted on the [Calendar](/fro/calendar/) page. These events are for public informational purposes to give an indication of FRO activities; they do not include location information.
+
+Events for groups that you're part of will show up on your personal calendar that's associated with the Google Account you've connected to your FRO Google Group(s), and these will include location information.
+
+Because these events on personal calendars are connected to the "central" FRO Calendar events, all updates and changes to events will automatically propagate. (See below if you don't use Google Calendar or use a different email address for calendaring than what you use for your FRO Google Group(s).)
+
+### Does this replace the reminder emails that group leaders send out?
+
+Not necessarily. Group leaders are free to manage the email volume going out to the group as they see fit. If a group leader is satisfied that the calendar-related emails stand as sufficient reminders and have enough detail, he or she may choose to forego the additional overhead of sending more reminders.
+
+### What if I'm not using Google Calendar for my calendar?
+
+It is difficult to provide generalized, useful guidance for the diversity of possible calendaring solutions out there. But ideally, whatever you're using is able to pick up event invitations from the email account you have associated with your FRO Google Group(s) and put that on your personal calendar.
+
+### What if I use a different email address for calendaring than the one I have associated with my FRO Google Group(s)?
+
+Every event allows attendees to invite other attendees. In Google Calendar on a computer, you need only open the event and add your preferred calendaring email address under the "Guests" section (in the "Add guests" field). The principle is the same in the Google Calendar app for Android and iOS.
+
+_Please do not add attendees to events who are not FRO members without first getting the approval of the group leader._
