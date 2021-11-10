@@ -2,14 +2,14 @@
 title:            "Front Range Objectivism"
 permalink:        /
 date:             "2021-11-02"
-last_modified_at: "2021-11-03T15:59:37+00:00"
+last_modified_at: "2021-11-10T02:06:05+00:00"
 ---
 
 Welcome to Front Range Objectivism!
 
 We are a group dedicated to the understanding and advocacy of Ayn Rand's [philosophy of Objectivism](/fro/resources/#objectivism) along the Front Range of the Colorado Rockies.
 
-FRO was established in 1988 by Lin Zinser. From 2008 to 2012, FRO was lead by Diana Hsieh. Today, FRO is led by _________.
+FRO was established in 1988 by Lin Zinser.
 
 ----
 

@@ -1,7 +1,7 @@
 ---
 title:            "FRO Resources"
 date:             "2021-11-02"
-last_modified_at: "2021-11-06T17:55:23+00:00"
+last_modified_at: "2021-11-10T02:06:05+00:00"
 ---
 
 ## On This Page
@@ -12,8 +12,6 @@ last_modified_at: "2021-11-06T17:55:23+00:00"
 ## Objectivism
 
 Objectivism is the philosophy of Ayn Rand, the popular and controversial 20th century novelist and philosopher. Ayn Rand first presented her philosophy in her novels, [_We the Living_](http://www.amazon.com/exec/obidos/ASIN/0451187849/frontrangeobj-20){:target="&lowbar;blank"}, [_Anthem_](http://www.amazon.com/exec/obidos/ASIN/0451191137/frontrangeobj-20){:target="&lowbar;blank"}, [_The Fountainhead_](http://www.amazon.com/exec/obidos/ASIN/0452273331/frontrangeobj-20){:target="&lowbar;blank"}, and [_Atlas Shrugged_](http://www.amazon.com/exec/obidos/ASIN/0452011876/frontrangeobj-20). She later turned to writing philosophical essays, many of which are collected in [_The Virtue of Selfishness_](http://www.amazon.com/exec/obidos/ASIN/0451163931/frontrangeobj-20){:target="&lowbar;blank"}, [_Capitalism: The Unknown Ideal_](http://www.amazon.com/exec/obidos/ASIN/0451147952/frontrangeobj-20){:target="&lowbar;blank"}, [_Introduction to Objectivist Epistemology_](http://www.amazon.com/exec/obidos/ASIN/0452010306/frontrangeobj-20){:target="&lowbar;blank"}, [_Philosophy: Who Needs It_](http://www.amazon.com/exec/obidos/ASIN/0451138937/frontrangeobj-20){:target="&lowbar;blank"}, [_The Romantic Manifesto_](http://www.amazon.com/exec/obidos/ASIN/0451149165/frontrangeobj-20){:target="&lowbar;blank"}, [_The Voice of Reason_](http://www.amazon.com/exec/obidos/ASIN/0452010462/frontrangeobj-20){:target="&lowbar;blank"}, and [_Return of the Primitive_](http://www.amazon.com/exec/obidos/ASIN/0452011841/frontrangeobj-20){:target="&lowbar;blank"}.
-
-_Note: Due to the "Amazon Tax" imposed by the Colorado legislature and governor in early 2010, FRO no longer benefits from those Amazon links. For more information, visit [Repeal The Amazon Tax](http://repealtheamazontax.com/){:target="&lowbar;blank"}._
 
 The Ayn Rand Institute summarizes the [Essentials of Objectivism](https://aynrand.org/ideas/philosophy/){:target="&lowbar;blank"} as follows:  
 

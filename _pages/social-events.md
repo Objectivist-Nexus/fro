@@ -1,12 +1,14 @@
 ---
 title:            "FROLIC: Social Events"
 date:             "2021-11-02"
-last_modified_at: "2021-11-03T15:59:37+00:00"
+last_modified_at: "2021-11-10T02:06:05+00:00"
 ---
 
 FROLIC ("FRO Laughter, Ideas, Chow") is our social group. Vicki Genther, the FROLIC leader, organizes lively outings and social gatherings for active and potential members. All friendly people with a serious interest in or honest curiosity about Ayn Rand's philosophy are welcome, regardless of their level of knowledge.
 
 To get email notifications of upcoming events, join the [FROLIC Email List](https://groups.google.com/g/fro-frolic).
+
+There is also a [FROLIC Meetup group](https://www.meetup.com/FROLIC-Denver/){:target="&lowbar;blank"} that you can join to be apprised of upcoming events.
 
 ## Standards of Conduct
 
