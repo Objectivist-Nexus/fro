@@ -1,13 +1,15 @@
 ---
 title:            "1FROG"
 date:             "2021-11-02"
-last_modified_at: "2021-11-05T23:22:45+00:00"
+last_modified_at: "2021-11-22T23:33:44+00:00"
 ---
 
 |**Leader**|[Dan Sullivan 1FROG](){: .email}|
 |**Standard Meeting Time**|4th Saturday of the month<br />6:00pm - 10:00pm|
 |**Standard Meeting Location**|rotating among members' homes|
 |**Email List**|[fro-1frog (Google Group)](http://groups.google.com/group/fro-1frog){:target="&lowbar;blank"}|
+
+_Because of capacity constraints at members' homes and the typical number of attendees, 1FROG is not currently accepting new members._
 
 1FROG is for relatively advanced Objectivists, who thoroughly understand and agree with the tenets of Objectivism. Most of us have been reading and studying Miss Rand's ideas for over ten years -- some of us for over 50 years.
 
