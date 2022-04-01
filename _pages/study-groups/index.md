@@ -1,7 +1,7 @@
 ---
 title:            "FRO Study Groups"
 date:             "2021-11-02"
-last_modified_at: "2021-11-05T19:17:34+00:00"
+last_modified_at: "2022-04-01T20:19:01+00:00"
 permalink:        /study-groups/
 ---
 
@@ -28,14 +28,14 @@ FROG members differ in the depth of their understanding of Objectivism, but all 
 
 ## Standards of Conduct
 
-All FROG members are expected to contribute to the smooth running of the group and its meetings. To that end:
+All FROG members are encouraged to contribute to the smooth running of the group and its meetings. To that end:
 
-* FROG members are expected to attend meetings regularly. Occasional absences are unavoidable, but merely occasional attendance disrupts the flow of meetings.
-* FROG members and guests should read (or re-read) the assigned reading in the month before the meeting. It should be fresh in the mind.
-* FROG members should help keep the discussion on-track, meaning focused on the topic at hand. People should not disrupt the meeting with side-conversations.
-* FROG members should periodically volunteer to act as discussion leaders. They should also volunteer to host meetings at their home, if appropriate.
+* FROG members are encouraged to attend meetings regularly. Occasional absences are unavoidable, but merely occasional attendance disrupts the flow of meetings.
+* FROG members and guests are encouraged to read (or re-read) the assigned reading in the month before the meeting. It should be fresh in the mind.
+* FROG members are encouraged to help keep the discussion on track, meaning focused on the topic at hand. People should not disrupt the meeting with side-conversations.
+* FROG members are encouraged to periodically volunteer to act as discussion leaders. They might also volunteer to host meetings at their home, if appropriate.
 
-In addition, FROG members should act in a friendly -- or at least civil -- way toward each other. In case of any serious conflict, the people should attempt to resolve the problem between themselves, preferably by meeting in-person. If further help is required, then they should discuss the conflict with their FROG leader.
+In addition, FROG members are encouraged to act in a friendly--or at least civil--way toward each other. In case of any serious conflict, the people are encouraged to attempt to resolve the problem between themselves, preferably by meeting in person. If further help is required, then they can discuss the conflict with their FROG leader.
 
 ## Joining
 
