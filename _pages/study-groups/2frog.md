@@ -1,7 +1,7 @@
 ---
 title:            "2FROG"
 date:             "2021-11-02"
-last_modified_at: "2022-08-10T16:23:58+00:00"
+last_modified_at: "2022-08-10T19:24:49+00:00"
 ---
 
 |**Leader**|[David Weatherell 2FROG](){: .email}|
@@ -9,4 +9,4 @@ last_modified_at: "2022-08-10T16:23:58+00:00"
 |**Standard Meeting Location**|North Denver Metro Area<br />(Superior, CO)|
 |**Email List**|[fro-2frog (Google Group)](http://groups.google.com/group/fro-2frog){:target="&lowbar;blank"}|
 
-2FROG is currently reading Gregory Salmieri's and Robert Mayhew's [_Foundations of a Free Society_](https://smile.amazon.com/Foundations-Free-Society-Reflections-Philosophical/dp/0822945487/){:target="&lowbar;blank"}.
+2FROG is currently reading Isabel Paterson's [_The God of the Machine_](https://smile.amazon.com/God-Machine-Isabel-Paterson-ebook/dp/B002VBWIME/){:target="&lowbar;blank"}.
