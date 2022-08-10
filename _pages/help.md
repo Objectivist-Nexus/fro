@@ -1,7 +1,7 @@
 ---
 title:            "FRO Help"
 date:             "2021-11-02"
-last_modified_at: "2021-11-09T20:26:08+00:00"
+last_modified_at: "2022-08-10T15:35:41+00:00"
 ---
 
 ## Google Groups
@@ -12,9 +12,9 @@ All of Front Range Objectivism's mailing lists are hosted on [Google Groups](htt
 
 [FRO Announcements](http://groups.google.com/group/fro-frost){:target="&lowbar;blank"} is open to everyone and is for announcements of major FRO news and events, including talks.
 
-[FROLIC](https://groups.google.com/g/fro-frolic){:target="&lowbar;blank"} is also open to everyone and is for announcement of [social events](/fro/social-events/).
+[FROLIC](https://groups.google.com/g/fro-frolic){:target="&lowbar;blank"} is also open to everyone and is for announcement of [social events](/social-events/).
 
-These FRO lists are limited to members of each [study group](/fro/study-groups). They require an invitation to join.
+These FRO lists are limited to members of each [study group](/study-groups). They require an invitation to join.
 * [1FROG](http://groups.google.com/group/fro-1frog){:target="&lowbar;blank"}
 * [2FROG](http://groups.google.com/group/fro-2frog){:target="&lowbar;blank"}
 * [3FROG](http://groups.google.com/group/fro-3frog){:target="&lowbar;blank"}
@@ -46,7 +46,7 @@ Click on the link to the list from which you wish to unsubscribe. (You may need 
 
 ## Calendar
 
-A public calendar of all FRO events is posted on the [Calendar](/fro/calendar/) page. These events are for public informational purposes to give an indication of FRO activities; they do not include location information.
+A public calendar of all FRO events is posted on the [Calendar](/calendar/) page. These events are for public informational purposes to give an indication of FRO activities; they do not include location information.
 
 Events for groups that you're part of will show up on your personal calendar that's associated with the Google Account you've connected to your FRO Google Group(s), and these will include location information.
 

@@ -22,8 +22,8 @@ title: "Front Range Objectivism"
 email: fro@frontrangeobjectivism.com
 description: >- # this means to ignore newlines until "baseurl:"
   Dedicated to the understanding and advocacy of Ayn Rand's philosophy of Objectivism along the Front Range of the Colorado Rockies.
-baseurl: "/fro/" # the subpath of your site, e.g. /blog
-url: "https://objectivist-nexus.github.io/fro/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://objectivist-nexus.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: FRObjectivism
 github_username:  Objectivist-Nexus
 
