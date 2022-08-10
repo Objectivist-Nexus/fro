@@ -1,7 +1,7 @@
 ---
 title:            "FRO Study Groups"
 date:             "2021-11-02"
-last_modified_at: "2022-08-10T19:26:44+00:00"
+last_modified_at: "2022-08-10T19:27:12+00:00"
 permalink:        /study-groups/
 ---
 
@@ -38,5 +38,3 @@ In addition, FROG members are encouraged to act in a friendly--or at least civil
 ## Joining
 
 To maintain the high value of FROG meetings, the FROG groups are selective about their members. To join, you must first speak to the group leader, then attend as a guest for a few meetings. After that, if approved by existing members, you will be invited to join. However, before you attempt to join FROG, you are strongly encouraged to attend FRO's talks or [social events](/social-events/) to meet current members thereof. Introduce yourself; tell people that you're interested in joining FROG and discuss your interest in studying Objectivism. If you're interested in joining FROG, be sure to join [FRO's Announcement E-mail List](http://groups.google.com/group/fro-frost){:target="&lowbar;blank"} to receive announcements of major FRO news and events, including openings in FROGs.
-
-_Is that really true about the announcement email list? I don't recall ever seeing any emails through there..._
