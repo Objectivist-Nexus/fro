@@ -1,10 +1,10 @@
 ---
 title:            "3FROG"
 date:             "2021-11-02"
-last_modified_at: "2021-11-05T03:07:54+00:00"
+last_modified_at: "2022-08-10T16:23:58+00:00"
 ---
 
-|**Leader**|Vicki Genther|
+|**Leader**|[Vicki Genther 3FROG](){: .email}|
 |**Standard Meeting Time**|2nd Saturday of the month<br />2:00pm - 5:00pm|
 |**Standard Meeting Location**|South/East Denver Metro Area<br />(Aurora, CO)|
 |**Email List**|[fro-3frog (Google Group)](http://groups.google.com/group/fro-3frog){:target="&lowbar;blank"}|
