@@ -1,7 +1,7 @@
 ---
 title:            "FRO Study Groups"
 date:             "2021-11-02"
-last_modified_at: "2022-08-10T16:23:58+00:00"
+last_modified_at: "2022-08-10T19:26:44+00:00"
 permalink:        /study-groups/
 ---
 
@@ -12,8 +12,6 @@ The various FROGs differ from one another in various ways, depending on the pref
 In the meeting, members discuss some Objectivist writing assigned the month before, usually two or three essays from an anthology by Ayn Rand. In recent years, FROGs have read and discussed [_The Voice of Reason_](http://www.amazon.com/exec/obidos/ASIN/0452010462/frontrangeobj-20){:target="&lowbar;blank"}, [_Introduction to Objectivist Epistemology_](http://www.amazon.com/exec/obidos/ASIN/0452010306/frontrangeobj-20){:target="&lowbar;blank"}, [_Philosophy: Who Needs It_](http://www.amazon.com/exec/obidos/ASIN/0451138937/frontrangeobj-20){:target="&lowbar;blank"}, [_The Virtue of Selfishness_](http://www.amazon.com/exec/obidos/ASIN/0451163931/frontrangeobj-20){:target="&lowbar;blank"}, [_Ayn Rand's Normative Ethics_](http://www.amazon.com/exec/obidos/ASIN/0521705460/frontrangeobj-20){:target="&lowbar;blank"}, [_The Fountainhead_](http://www.amazon.com/exec/obidos/ASIN/0452273331/frontrangeobj-20){:target="&lowbar;blank"}, [_The Romantic Manifesto_](http://www.amazon.com/exec/obidos/ASIN/0451149165/frontrangeobj-20){:target="&lowbar;blank"}, [_Capitalism: The Unknown Ideal_](http://www.amazon.com/exec/obidos/ASIN/0451147952/frontrangeobj-20){:target="&lowbar;blank"}, and more. The discussion for each essay is guided and managed by a rotating volunteer, also chosen at the prior meeting. Meetings tend to last two to three hours, often with a break for snacks and chat in the middle. Some groups are structured to have dedicated (optional) socialization time before or after, accompanied by appetizers or dinner.
 
 ## Schedule
-
-_TO DO: Add mailto: links for each group leader, prepopulated with a subject and body_
 
 |Group|Standard Meeting Time|Standard Meeting Location|Leader|
 |-|-|-|
