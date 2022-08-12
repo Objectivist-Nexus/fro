@@ -1,7 +1,7 @@
 ---
 title:            "FRO Resources"
 date:             "2021-11-02"
-last_modified_at: "2021-11-10T02:06:05+00:00"
+last_modified_at: "2022-08-12T13:09:00+00:00"
 ---
 
 ## On This Page
@@ -110,10 +110,6 @@ TOS-Con is for people who want to understand and act on these ideas, to thrive i
 [FIRM (Freedom and Individual Rights in Medicine)](http://www.westandfirm.org/){:target="&lowbar;blank"} promotes the philosophy of individual rights, personal responsibility, and free market economics in health care. FIRM holds that the only moral and practical way to obtain medical care is that of individuals choosing and paying for their own medical care in a capitalist free market. Federal and state regulations and entitlements, we maintain, are the two most important factors in driving up medical costs. They have created the crisis we face today.
 
 FIRM was founded by Lin Zinser, JD, with assistance from Paul Hsieh, MD, and others. It is run by Dr Paul Hsieh.
-
-### SEPARATE!
-
-[SEPARATE!](http://separatestateandtheeconomy.com/){:target="&lowbar;blank"} is a blog championing the moral case for separating state and economy, run by Anders Ingemarson.
 
 ### Coalition for Secular Government
 
