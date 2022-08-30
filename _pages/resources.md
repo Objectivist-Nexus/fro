@@ -1,7 +1,7 @@
 ---
 title:            "FRO Resources"
 date:             "2021-11-02"
-last_modified_at: "2022-08-12T13:09:00+00:00"
+last_modified_at: "2022-08-30T11:53:20+00:00"
 ---
 
 ## On This Page
@@ -70,7 +70,7 @@ Thus, Objectivism rejects any form of collectivism, such as fascism or socialism
 * [_The Art of Fiction_](http://www.amazon.com/exec/obidos/ASIN/0452281547/frontrangeobj-20){:target="&lowbar;blank"}, edited by Tore Boeckmann
 * [_The Art of Nonfiction_](http://www.amazon.com/exec/obidos/ASIN/0452282314/frontrangeobj-20){:target="&lowbar;blank"}, edited by Robert Mayhew
 * [_Objectively Speaking_](http://www.amazon.com/exec/obidos/ASIN/0739131958/frontrangeobj-20){:target="&lowbar;blank"}, edited by Marlene Podritske and Peter Schwartz
-* [_Letters of Ayn Rand_](http://www.amazon.com/exec/obidos/ASIN/0452274044/frontrangeobj-20){:target="&lowbar;blank"}, edited by Michael Merliner
+* [_Letters of Ayn Rand_](http://www.amazon.com/exec/obidos/ASIN/0452274044/frontrangeobj-20){:target="&lowbar;blank"}, edited by Michael Berliner
 * [_The Journals of Ayn Rand_](http://www.amazon.com/exec/obidos/ASIN/0452278872/frontrangeobj-20){:target="&lowbar;blank"}, edited by David Harriman
 
 ### Quality Secondary Literature
