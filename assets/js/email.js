@@ -4,8 +4,10 @@ var emails = {
   "dan sullivan 1frog": ["Dan Sullivan", "dan@frontrangeobjectivism.com", "Interest in 1FROG", null],
   "david weatherell 2frog": ["David Weatherell", "david@frontrangeobjectivism.com", "Interest in 2FROG", null],
   "vicki genther 3frog": ["Vicki Genther", "vicki@frontrangeobjectivism.com", "Interest in 3FROG", null],
+  "kelsey robertson 3frog": ["Kelsey Robertson", "kelsey@frontrangeobjectivism.com", "Interest in 3FROG", null],
   "david weatherell 4frog": ["David Weatherell", "david@frontrangeobjectivism.com", "Interest in 4FROG", null],
-  "vicki genther frolic": ["Vicki Genther", "vicki@frontrangeobjectivism.com", "Interest in FROLIC", null]
+  "vicki genther frolic": ["Vicki Genther", "vicki@frontrangeobjectivism.com", "Interest in FROLIC", null],
+  "kelsey robertson frolic": ["Kelsey Robertson", "kelsey@frontrangeobjectivism.com", "Interest in FROLIC", null]
 }
 
 $(document).ready(function() {
