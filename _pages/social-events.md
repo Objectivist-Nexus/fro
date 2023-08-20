@@ -1,10 +1,10 @@
 ---
 title:            "FROLIC: Social Events"
 date:             "2021-11-02"
-last_modified_at: "2022-08-10T16:23:58+00:00"
+last_modified_at: "2023-08-20T13:24:01+00:00"
 ---
 
-FROLIC ("FRO Laughter, Ideas, Chow") is our social group. [Vicki Genther FROLIC](){: .email}, the FROLIC leader, organizes lively outings and social gatherings for active and potential members. All friendly people with a serious interest in or honest curiosity about Ayn Rand's philosophy are welcome, regardless of their level of knowledge.
+FROLIC ("FRO Laughter, Ideas, Chow") is our social group. [Kelsey Robertson FROLIC](){: .email}, the FROLIC leader, organizes lively outings and social gatherings for active and potential members. All friendly people with a serious interest in or honest curiosity about Ayn Rand's philosophy are welcome, regardless of their level of knowledge.
 
 To get email notifications of upcoming events, join the [FROLIC Email List](https://groups.google.com/g/fro-frolic).
 
