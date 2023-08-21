@@ -1,7 +1,7 @@
 ---
 title:            "FRO Study Groups"
 date:             "2021-11-02"
-last_modified_at: "2022-08-10T19:27:12+00:00"
+last_modified_at: "2023-08-21T16:04:03+00:00"
 permalink:        /study-groups/
 ---
 
@@ -17,7 +17,7 @@ In the meeting, members discuss some Objectivist writing assigned the month befo
 |-|-|-|
 |[1FROG](/study-groups/1frog/)|4th Saturday of the month<br />6:00pm - 10:00pm|rotating among members' homes|[Dan Sullivan 1FROG](){: .email}|
 |[2FROG](/study-groups/2frog/)|4th Sunday of the month<br />1:00pm - 4:30pm|North Denver Metro Area<br />(Superior, CO)|[David Weatherell 2FROG](){: .email}|
-|[3FROG](/study-groups/3frog/)|2nd Saturday of the month<br />2:00pm - 5:00pm|South/East Denver Metro Area<br />(Aurora, CO)|[Vicki Genther 3FROG](){: .email}|
+|[3FROG](/study-groups/3frog/)|2nd Saturday of the month<br />2:00pm - 5:00pm|South/East Denver Metro Area<br />(Aurora, CO)|[Kelsey Robertson 3FROG](){: .email}|
 |[4FROG](/study-groups/4frog/)|3th Monday of the month<br />7:00pm - 9:00pm|North Denver Metro Area<br />(Louisville, CO)|[David Weatherell 4FROG](){: .email}|
 
 ## Standards of Membership
