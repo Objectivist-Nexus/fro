@@ -1,7 +1,7 @@
 ---
 title:            "FRO Study Groups"
 date:             "2021-11-02"
-last_modified_at: "2023-08-21T16:04:03+00:00"
+last_modified_at: "2023-11-19T22:25:10+00:00"
 permalink:        /study-groups/
 ---
 
@@ -19,6 +19,12 @@ In the meeting, members discuss some Objectivist writing assigned the month befo
 |[2FROG](/study-groups/2frog/)|4th Sunday of the month<br />1:00pm - 4:30pm|North Denver Metro Area<br />(Superior, CO)|[David Weatherell 2FROG](){: .email}|
 |[3FROG](/study-groups/3frog/)|2nd Saturday of the month<br />2:00pm - 5:00pm|South/East Denver Metro Area<br />(Aurora, CO)|[Kelsey Robertson 3FROG](){: .email}|
 |[4FROG](/study-groups/4frog/)|3th Monday of the month<br />7:00pm - 9:00pm|North Denver Metro Area<br />(Louisville, CO)|[David Weatherell 4FROG](){: .email}|
+
+## Calendar
+
+As of November 20, 2023, we are no longer automatically inviting the main FRO Google Groups to their respective events on the "central" FRO Calendar. Instead, we are maintaining separate Google Groups for each FRO study group for those who wish to receive individual calendar events (that include location information and other details) on their personal calendars.
+
+If you are in one of the FRO study groups and wish to receive calendar invitations that will have their details automatically updated in your calendaring app, please [calendar inquiry](){: .email} (and be sure to send an email from the account that is connected to your calendar).
 
 ## Standards of Membership
 

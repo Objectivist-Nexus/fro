@@ -2,7 +2,7 @@
 title:            "Front Range Objectivism"
 permalink:        /
 date:             "2021-11-02"
-last_modified_at: "2023-11-19T19:37:15+00:00"
+last_modified_at: "2023-11-19T22:25:10+00:00"
 ---
 
 Welcome to Front Range Objectivism!
@@ -21,7 +21,7 @@ FRO's activities comprise [study groups](/study-groups/) and [social events](/so
 
 At present, there are four concurrently running [study groups](/study-groups/), each meeting monthly and each focusing on different books or discussion topics.
 
-FROLIC ("FRO Laughter, Ideas, Chow"), our [social group](/social-events/), includes dinners, museum tours, park visits, and other ad hoc events.
+FROLIC ("FRO Laughter, Ideas, Chow"), our [social group](/social-events/), includes dinners, museum tours, park visits, and other ad hoc events. Events are scheduled and managed through the [FROLIC Meetup group](https://www.meetup.com/FROLIC-Denver/){:target="&lowbar;blank"}.
 
 FRO does not hold [conferences](/resources/#conferences), but we occasionally host talks, presented either by members or guest speakers.
 

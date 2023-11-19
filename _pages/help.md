@@ -1,7 +1,7 @@
 ---
 title:            "FRO Help"
 date:             "2021-11-02"
-last_modified_at: "2022-08-10T15:35:41+00:00"
+last_modified_at: "2023-11-19T22:25:09+00:00"
 ---
 
 ## Google Groups
@@ -48,20 +48,24 @@ Click on the link to the list from which you wish to unsubscribe. (You may need 
 
 A public calendar of all FRO events is posted on the [Calendar](/calendar/) page. These events are for public informational purposes to give an indication of FRO activities; they do not include location information.
 
-Events for groups that you're part of will show up on your personal calendar that's associated with the Google Account you've connected to your FRO Google Group(s), and these will include location information.
+As of November 20, 2023, we are no longer automatically inviting the main FRO Google Groups to their respective events on the "central" FRO Calendar. Instead, we are maintaining separate Google Groups for each [FRO study group](/study-groups/) for those who wish to receive individual calendar events (that include location information and other details) on their personal calendars. (We will no longer be sending out calendar invitations for [FROLIC](/social-events/) events, since we use the [FROLIC Meetup group](https://www.meetup.com/FROLIC-Denver/){:target="&lowbar;blank"} to manage events, including invitations and RSVPs.)
 
-Because these events on personal calendars are connected to the "central" FRO Calendar events, all updates and changes to events will automatically propagate. (See below if you don't use Google Calendar or use a different email address for calendaring than what you use for your FRO Google Group(s).)
+If you are in one of the [FRO study groups](/study-groups/) and wish to receive calendar invitations that will have their details automatically updated in your calendaring app, please [calendar inquiry](){: .email} (and be sure to send an email from the account that is connected to your calendar).
 
 ### Does this replace the reminder emails that group leaders send out?
 
-Not necessarily. Group leaders are free to manage the email volume going out to the group as they see fit. If a group leader is satisfied that the calendar-related emails stand as sufficient reminders and have enough detail, he or she may choose to forego the additional overhead of sending more reminders.
+No. Group leaders continue to manage upcoming meetings themselves. The calendar events are provided as a convenience to you.
+
+### Do I need to RSVP using the calendar functionality?
+
+No. Moreover, group leaders may not be consulting calendar RSVPs to gauge attendance levels, so make sure to abide by the standards and expectations of your leader(s) in communicating your intention to attend meetings.
+
+Emphatically, there will be no calendar invitations (and thus no calendar RSVPs) for [FROLIC](/social-events/), since those events are managed through the [FROLIC Meetup group](https://www.meetup.com/FROLIC-Denver/){:target="&lowbar;blank"}.
 
 ### What if I'm not using Google Calendar for my calendar?
 
-It is difficult to provide generalized, useful guidance for the diversity of possible calendaring solutions out there. But ideally, whatever you're using is able to pick up event invitations from the email account you have associated with your FRO Google Group(s) and put that on your personal calendar.
+It is difficult to provide generalized, useful guidance for the diversity of possible calendaring solutions out there. But ideally, whatever you're using is able to pick up event invitations from the email mailbox you requested to have added to your FROG groups' calendar lists and put that on your personal calendar.
 
-### What if I use a different email address for calendaring than the one I have associated with my FRO Google Group(s)?
-
-Every event allows attendees to invite other attendees. In Google Calendar on a computer, you need only open the event and add your preferred calendaring email address under the "Guests" section (in the "Add guests" field). The principle is the same in the Google Calendar app for Android and iOS.
+### Privacy and Permission
 
 _Please do not add attendees to events who are not FRO members without first getting the approval of the group leader._
