@@ -2,7 +2,7 @@
 title:            "Front Range Objectivism"
 permalink:        /
 date:             "2021-11-02"
-last_modified_at: "2022-08-10T15:35:41+00:00"
+last_modified_at: "2023-11-19T19:37:15+00:00"
 ---
 
 Welcome to Front Range Objectivism!
@@ -27,6 +27,10 @@ FRO does not hold [conferences](/resources/#conferences), but we occasionally ho
 
 ## How to Get Involved
 
-We primarily coordinate meetings and activities through Google Groups, an email list system. Each [study group](/study-groups/) has its own email list, as does [FROLIC](/social-events/). Members often also use the groups for interesting discussions between meetings. Group leaders set the membership criteria for their own groups, and you can apply with them to be added to their group's list.
+We primarily coordinate meetings and activities through Google Groups, an email list system.
+
+Our general [FRO Announcements](http://groups.google.com/group/fro-frost){:target="&lowbar;blank"} list is for broad communication about topics and events that are likely to be of interest to the entire FRO membership.
+
+In addition, each [study group](/study-groups/) has its own email list, as does [FROLIC](/social-events/). Members often also use the groups for interesting discussions between meetings. Group leaders set the membership criteria for their own groups, and you can apply with them to be added to their group's list.
 
 If you're not already familiar with Google Groups, see [our help section](/help/#google-groups).
