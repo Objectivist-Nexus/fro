@@ -1,14 +1,12 @@
 ---
 title:            "FROLIC: Social Events"
 date:             "2021-11-02"
-last_modified_at: "2023-08-20T13:24:01+00:00"
+last_modified_at: "2023-11-19T19:34:28+00:00"
 ---
 
 FROLIC ("FRO Laughter, Ideas, Chow") is our social group. [Kelsey Robertson FROLIC](){: .email}, the FROLIC leader, organizes lively outings and social gatherings for active and potential members. All friendly people with a serious interest in or honest curiosity about Ayn Rand's philosophy are welcome, regardless of their level of knowledge.
 
-To get email notifications of upcoming events, join the [FROLIC Email List](https://groups.google.com/g/fro-frolic).
-
-There is also a [FROLIC Meetup group](https://www.meetup.com/FROLIC-Denver/){:target="&lowbar;blank"} that you can join to be apprised of upcoming events.
+Events are organized through the [FROLIC Meetup group](https://www.meetup.com/FROLIC-Denver/){:target="&lowbar;blank"}, which is the system of record for RSVPs, but we also recommend that you join the [FROLIC Email List](https://groups.google.com/g/fro-frolic) to get other announcements and information about FROLIC events.
 
 ## Standards of Conduct
 
