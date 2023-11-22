@@ -1,7 +1,7 @@
 ---
 title:            "FRO Help"
 date:             "2021-11-02"
-last_modified_at: "2023-11-19T22:25:09+00:00"
+last_modified_at: "2023-11-22T15:16:28+00:00"
 ---
 
 ## Google Groups
@@ -10,9 +10,9 @@ last_modified_at: "2023-11-19T22:25:09+00:00"
 
 All of Front Range Objectivism's mailing lists are hosted on [Google Groups](https://groups.google.com){:target="&lowbar;blank"}. That platform offers all the traditional functionality of a mailing list, plus a web interface. Use the links below to subscribe to FRO's mailing lists or to modify your existing subscriptions.
 
-[FRO Announcements](http://groups.google.com/group/fro-frost){:target="&lowbar;blank"} is open to everyone and is for announcements of major FRO news and events, including talks.
+[FRO Announcements](http://groups.google.com/group/fro-frost){:target="&lowbar;blank"} is open to everyone and is for announcements of major FRO news and events, including talks. Everybody involved in any aspect of FRO is encouraged to join this list.
 
-[FROLIC](https://groups.google.com/g/fro-frolic){:target="&lowbar;blank"} is also open to everyone and is for announcement of [social events](/social-events/).
+*NOTE:* The [FROLIC list](https://groups.google.com/g/fro-frolic){:target="&lowbar;blank"} has been deprecated in favor of the [FROLIC Meetup group](https://www.meetup.com/FROLIC-Denver/){:target="&lowbar;blank"}, which is used to announce events and coordinate RSVPs for [social events](/social-events/).
 
 These FRO lists are limited to members of each [study group](/study-groups). They require an invitation to join.
 * [1FROG](http://groups.google.com/group/fro-1frog){:target="&lowbar;blank"}
