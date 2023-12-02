@@ -1,0 +1,31 @@
+.page-header {
+  position: relative;
+  background-image: url('/assets/images/header.png');
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+.page-header::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background: rgba(0, 0, 0, 0.5); /* Adjust the opacity as needed */
+  pointer-events: none; /* This ensures that the overlay doesn't interfere with clicks */
+}
+.page-header h1, .page-header h2, .page-header .btn {
+  position: relative; /* Ensure that text appears above the overlay */
+  z-index: 1;
+  color: white; /* This is your existing text color */
+  opacity: 1;
+  text-shadow:
+    -1px -1px 0 #000,
+     1px -1px 0 #000,
+    -1px  1px 0 #000,
+     1px  1px 0 #000;
+}
+.page-header .btn {
+  background-color: rgba(255, 255, 255, 0.4); /* White with 20% opacity */
+}
