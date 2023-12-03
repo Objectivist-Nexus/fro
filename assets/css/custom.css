@@ -1,5 +1,6 @@
 .page-header {
   position: relative;
+  background-color: #155799;
   background-image: url('/assets/images/header.jpg');
   background-size: cover;
   background-position: center center;
