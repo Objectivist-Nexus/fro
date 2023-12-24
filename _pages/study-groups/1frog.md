@@ -1,13 +1,13 @@
 ---
 title:            "1FROG"
 date:             "2021-11-02"
-last_modified_at: "2023-11-19T22:25:09+00:00"
+last_modified_at: "2023-12-24T15:33:12+00:00"
 ---
 
 |**Leader**|[Dan Sullivan 1FROG](){: .email}|
 |**Standard Meeting Time**|4th Saturday of the month<br />6:00pm - 10:00pm|
 |**Standard Meeting Location**|rotating among members' homes|
-|**Email List**|[fro-1frog (Google Group)](http://groups.google.com/group/fro-1frog){:target="&lowbar;blank"}|
+|**Email List**|[fro-1frog (Google Group)](https://groups.google.com/g/fro-1frog/about){:target="&lowbar;blank"}|
 |**Calendar Invitations**|[calendar inquiry](){: .email}|
 
 _Because of capacity constraints at members' homes and the typical number of attendees, 1FROG is not currently accepting new members._
