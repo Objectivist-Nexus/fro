@@ -1,7 +1,7 @@
 ---
 title:            "1FROG"
 date:             "2021-11-02"
-last_modified_at: "2023-12-24T15:33:12+00:00"
+last_modified_at: "2024-06-10T14:37:46+00:00"
 ---
 
 |**Leader**|[Dan Sullivan 1FROG](){: .email}|
@@ -19,3 +19,5 @@ We usually read and discuss books by an Objectivist scholar or other writer of i
 At each meeting we also make time for attendees to mention items of general interest, from books or movies, to current events and the like. Occasionally, political issues are brought up, but we are emphatically not big on politics. Every meeting also includes time for socializing -- to snack and visit and enjoy friendly conversations. As Objectivists, most of us hold strong opinions, and occasionally we disagree about things, but a spirit of benevolence and camaraderie prevails at all times.
 
 Our meetings are held in individual members' homes, so new members must be approved by unanimous consent, typically after attending a few meetings by special invitation. If this sounds like a potential fit for you, email the group leader with a bit about your background, your interests, and your knowledge of Objectivism.
+
+1FROG is currently reading Leonard Peikoff's [_The Ominous Parallels_](https://www.amazon.com/Ominous-Parallels-Leonard-Peikoff-ebook/dp/B002OSXD82/){:target="&lowbar;blank"}.
